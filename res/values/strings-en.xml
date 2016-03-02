@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NowPanel_beta</string>
+    <string name="o">operator</string>
+    <string name="lock">Screen Lock_beta</string>
+    <string name="w_acyldy">WiFi opened</string>
+    <string name="w_yapyldy">WiFi closed</string>
+    <string name="s_habar">Thank you</string>
+    <string name="i">About</string>
+    <string name="i_m">All rights reserved\n© 2015 Myrat Rahmanow\nhttps://cgcod.blogspot.com\nhttps://github.com/Myrat/nowpanel/\n\nVersion: 1.1\nAny founded errors and ideas send please to this \ntaslamacy@gmail.com mail</string>
+    <string-array name="aylar">
+        <item>januar</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>agust</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+
+    <string-array name="gunler">
+        <item>sunday</item>
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>wednesday</item>
+        <item>thursday</item>
+        <item>friday</item>
+        <item>saturday</item>
+    </string-array>
+
+</resources>
