@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="left">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:orientation="horizontal"
+        android:gravity="left">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:src="@drawable/blue_bg"
+            android:id="@+id/b_bluetooth"/>
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/check"
+            android:id="@+id/b_stime"
+            android:layout_marginLeft="4dp"
+            android:layout_marginBottom="4dp" />
+
+        <!--ImageView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/t_gps"
+            android:id="@+id/b_gps"
+            android:layout_marginLeft="4dp"
+            android:layout_marginBottom="4dp" /-->
+
+    </LinearLayout>
+
+</RelativeLayout>

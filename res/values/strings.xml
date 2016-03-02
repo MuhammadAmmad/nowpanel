@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NowPanel_beta</string>
+    <string name="o">operator</string>
+    <string name="lock">Gulplamak_beta</string>
+    <string name="w_acyldy">WiFi açyldy</string>
+    <string name="w_yapyldy">WiFi ýapyldy</string>
+    <string name="s_habar">Sag boluň, görüşýänçäk!</string>
+    <string name="i">Barada</string>
+    <string name="i_m">Ähli hukuklar goralan\n© 2015 Myrat Rahmanow\nhttps://cgcod.blogspot.com\n\nWersiýa: 1.1\nIslendik teklipleri we ýalňyşlyklary \ntaslamacy@gmail.com salga iberip bilersiňiz.</string>
+    <string-array name="aylar">
+        <item>ýanwar</item>
+        <item>fewral</item>
+        <item>mart</item>
+        <item>aprel</item>
+        <item>maý</item>
+        <item>iýun</item>
+        <item>iýul</item>
+        <item>awgust</item>
+        <item>sentýabr</item>
+        <item>oktýabr</item>
+        <item>noýabr</item>
+        <item>dekabr</item>
+    </string-array>
+
+    <string-array name="gunler">
+        <item>ýekşenbe</item>
+        <item>duşenbe</item>
+        <item>sişenbe</item>
+        <item>penşenbe</item>
+        <item>çarşenbe</item>
+        <item>anna</item>
+        <item>şenbe</item>
+    </string-array>
+
+</resources>
