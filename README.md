@@ -1,5 +1,5 @@
-#Türkmençe
-NowPanel android üçin:
+# Türkmençe
+## NowPanel android üçin:
 Telefonuň sazlanmalaryna çalt aralaşmaklyk üçin açyk kotly bolan NowPanel arkaly siz
 -	Wi-Fi, Mobil data, AutoRotate we Blutuz açyp-öçürip bilersiňiz.
 -	Sagat sazlanmalaryna gysga ýol.
@@ -15,8 +15,8 @@ Aýratyn düwmelere basyp saklamak arkaly:
 -	Gulpa basyp saklamak arkaly programmany Administratorlyk derejeden aýyrmak
 -	Sazlanmalar arkaly programmalaryň sazlanmalaryna geçmek.
 
-#English
-NowPanel for android:
+# English
+## NowPanel for android:
 With this app can quickly toggle system settings.
 -	Wi-Fi, Mobil Data, AutoRotate and BlueTooth toggling
 -	Alarm settings
